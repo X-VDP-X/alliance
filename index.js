@@ -1,10 +1,12 @@
-document.body.innerHTML = `
+document.documentElement.innerHTML = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Hacked by X-VDP-X - HXH</title>
   <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
     body {
       background: radial-gradient(ellipse at center, #000 0%, #111 100%);
@@ -146,7 +148,8 @@ document.body.innerHTML = `
       .btn { padding: 10px 24px; font-size: 1rem; }
     }
   </style>
-
+</head>
+<body>
   <h1>Hacked by X-VDP-X - HXH</h1>
 
   <div class="logos">
@@ -166,4 +169,6 @@ document.body.innerHTML = `
   <div class="teams">Cyber_Hay | Diable'Fire | L’Ombre Noire</div>
 
   <button class="btn" onclick="window.location.href='https://t.me/xvdpx'">Join Telegram</button>
+</body>
+</html>
 `;
