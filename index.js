@@ -3,7 +3,7 @@ document.body.innerHTML = `
 
   <div class="logos">
     <img src="https://i.postimg.cc/q79gXyTp/image-2.webp" alt="Logo VDP" />
-    <img src="https://media.discordapp.net/attachments/1362519025065922723/1387851021610520596/81E6073E-2513-438C-B039-67A6EDD098CF.jpg?ex=685ed87c&is=685d86fc&hm=0be39a727f950dd1dda887ec6ba3a38a5c5ff678750984bcc0db8c5af752088e&=&format=webp&width=868&height=960" alt="Logo HxH" />
+    <img src="https://i.ibb.co/SDvRZ3X5/HXH-ARMENIEN.png" alt="Logo HxH" />
   </div>
 
   <div class="hashtag-line"># Hack world # X-VDP-X # HXH # HACKED</div>
